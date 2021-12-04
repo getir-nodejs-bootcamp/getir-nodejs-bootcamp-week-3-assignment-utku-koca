@@ -12,8 +12,8 @@ The reason there is a secret string in .env file is that webtoken method needs i
 
 To start the project, use following commands
 
-npm install ==> install the dependencies
-npm start ==> start to server
+- npm install ==> install the dependencies
+- npm start ==> start to server
 
 <br/>
 
@@ -25,21 +25,25 @@ GET METHODS
 /api/v1/:id ==> get specific user with id
 <br/>
 
+
 POST METHODS
 
 /api/v1/register ==> register user (password, username, email)
 /api/v1/login ==> login user (username, password)
 <br/>
 
+
 PATCH METHOD
 
 /api/v1/ ==> update user
 <br/>
 
+
 PUT METHOD
 
 /api/v1 ==> update user
 <br/>
+
 
 DELETE METHOD
 
